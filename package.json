@@ -1,0 +1,23 @@
+{
+  "name": "kafka-service",
+  "version": "1.0.0",
+  "description": "How to use Kafka with Node.js",
+  "main": "kafka.service.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeslenkoOleg/node-kafka-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeslenkoOleg/node-kafka-service/issues"
+  },
+  "homepage": "https://github.com/TeslenkoOleg/node-kafka-service#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
